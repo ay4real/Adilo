@@ -1,0 +1,9 @@
+.navbar {
+    top: 0px;
+    left: 0.5px;
+    width: 1600px;
+    height: 89px;
+    opacity: 1;
+    z-index: 10;
+    background-color: azure;
+}
